@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+# Vector index is rebuilt automatically from knowledge_base/
+chroma_db/
