@@ -1,4 +1,4 @@
-# GreenTech Customer Support — Agentic RAG chatbot
+# Agentic RAG chatbot
 
 A fully local customer-support chatbot (no cloud calls, no API keys).
 
